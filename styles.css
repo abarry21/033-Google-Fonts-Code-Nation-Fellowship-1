@@ -1,0 +1,47 @@
+h1{ 
+    font-family: Helvetica;
+}
+
+.bark{
+    font-family: 'Big Shoulders Stencil Text', cursive;}
+
+.seatgeek{
+    font-family: 'Xanh Mono', monospace;}
+
+.etsy{
+    font-family: 'Indie Flower', cursive;}
+
+.amex{font-family: 'Pangolin', cursive;}
+
+.google{font-family: 'Montserrat Alternates', sans-serif;}
+
+.google{
+    color:grey;}
+
+
+h2:hover {
+  background-color: blue; 
+}
+
+.Header{
+    color: #0080ff;}
+
+.Description{
+    color: #17d3ff;}
+
+.bark{
+    color:#00ffcc;}
+
+.seatgeek{
+    color:#e4a4ee;}
+
+.etsy{
+    color:#ffaa7b;}
+
+.amex{
+    color: #fee975;}
+
+
+img{ border : 30px groove  yellow;
+     border : 30px groove green;
+    border : 30px groove red;}
